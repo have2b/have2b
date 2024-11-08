@@ -9,10 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
 ###
-
+# Tech Stack 🧑‍💻
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -50,7 +48,7 @@
 </div>
 
 ###
-
+# My social media 🌐
 <div align="left">
   <a href="https://www.linkedin.com/in/thanh-long-vu-59268a244" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -64,7 +62,7 @@
 </div>
 
 ###
-
+# My commit stats 📈
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/have2b/have2b/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/have2b/have2b/output/github-snake.svg" />
